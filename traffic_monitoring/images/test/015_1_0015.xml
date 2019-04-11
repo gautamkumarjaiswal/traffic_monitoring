@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>015_1_0015.png</filename>
+	<path>C:\Users\Gautams\tensorflow1\labelimg\data\test\015_1_0015.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>177</width>
+		<height>166</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>U_turn_prohibited</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>34</ymin>
+			<xmax>129</xmax>
+			<ymax>126</ymax>
+		</bndbox>
+	</object>
+</annotation>

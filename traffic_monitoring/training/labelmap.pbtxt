@@ -1,0 +1,24 @@
+item {
+  id: 1
+  name: 'car'
+}
+
+item {
+  id: 2
+  name: 'Bus'
+}
+
+item {
+  id: 3
+  name: 'Person'
+}
+
+item {
+  id: 4
+  name: 'speed_limit40'
+}
+
+item {
+  id: 5
+  name: 'U_turn_prohibited'
+}

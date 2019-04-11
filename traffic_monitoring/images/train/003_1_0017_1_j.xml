@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>003_1_0017_1_j.png</filename>
+	<path>C:\Users\Gautams\tensorflow1\labelimg\data\train\003_1_0017_1_j.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>113</width>
+		<height>123</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed_limit40</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>7</ymin>
+			<xmax>100</xmax>
+			<ymax>109</ymax>
+		</bndbox>
+	</object>
+</annotation>
